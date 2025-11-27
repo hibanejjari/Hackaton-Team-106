@@ -1,7 +1,17 @@
-﻿# Hackaton-Team-106
 
-# 🛠️ Hackaton-Team-106
+#  Hackaton-Team-106
 ### Solution de suivi & versionnage des normes avec analyse d’impact PLM
+## 📚 Sommaire
+
+- [🎯 Objectif du projet](#-objectif-du-projet)
+- [📂 Structure du dépôt](#-structure-du-dépôt)
+- [🔧 Pipeline technique](#-pipeline-technique)
+- [📊 Diagramme dimpact-traceabilité](#-diagramme-dimpact-traceabilité)
+- [✔️ Fonctionnalités du prototype](#️-fonctionnalités-du-prototype)
+- [🖥️ Maquette de linterface-utilisateur-ui](#️-maquette-de-linterface-utilisateur-ui)
+- [📅 Roadmap--to-do-list](#-roadmap--to-do-list)
+- [👥 Équipe](#-équipe)
+- [📜 Licence](#-licence)
 
 ---
 
@@ -208,4 +218,5 @@ Hackaton-Team-106/
 ## 📜 Licence
 
 Projet réalisé dans le cadre du **Hackaton Ingénierie & PLM — Team 106**.
+
 
